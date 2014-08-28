@@ -1,4 +1,6 @@
 first_app
 =========
 
-Playing
+*Just Playing*
+
+[Pollenizer] (http://pollenizer.com)
